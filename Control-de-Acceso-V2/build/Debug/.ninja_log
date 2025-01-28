@@ -1,0 +1,26 @@
+# ninja log v5
+119	1023	7597920441630402	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.c.obj	abecc20b833b060a
+132	1019	7597920441610397	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj	2bc278c38f6ff515
+26	280	7597922527390317	CMakeFiles/Control-de-Acceso-V2.dir/Core/Src/stm32l4xx_hal_msp.c.obj	ed1c4adce8fb8484
+42	593	7597921617255885	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj	c81af03bcb1149d0
+152	1024	7597920441510407	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj	9752ae84393d19b5
+23	276	7597922527350326	CMakeFiles/Control-de-Acceso-V2.dir/Core/Src/stm32l4xx_it.c.obj	66ebade62f4f8201
+148	1043	7597920441780401	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj	c05c373852eb6866
+140	1062	7597920442120409	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c.obj	7fe0f3aa2bbf645c
+157	1097	7597920442380418	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj	369ef3907c52b863
+124	1043	7597920441770398	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj	292afab75d8cd90b
+144	1068	7597920442160403	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c.obj	9fdd967b7840e8ba
+51	628	7597921617621035	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj	1cf7cee05f1519df
+136	1073	7597920442180431	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c.obj	f8092c8d78d52f3a
+128	1094	7597920442410413	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj	cd24adec2dc3ffb
+115	1130	7597920442822404	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj	f10cd43a0accc3
+75	244	7597921613697021	CMakeFiles/Control-de-Acceso-V2.dir/startup_stm32l476xx.s.obj	4a6d987b6ff3ac44
+46	602	7597921617305935	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj	fbc980c9443a2908
+65	391	7597921615251147	CMakeFiles/Control-de-Acceso-V2.dir/Core/Src/sysmem.c.obj	fb3135f60f75be29
+37	546	7597921616796328	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c.obj	12b50fc4fd32da85
+59	577	7597921617109133	CMakeFiles/Control-de-Acceso-V2.dir/Core/Src/system_stm32l4xx.c.obj	2dea2a464ded1cad
+33	595	7597921617255885	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c.obj	5cb3b4e9623babae
+55	595	7597921617255885	CMakeFiles/Control-de-Acceso-V2.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c.obj	930c6fd07cb18832
+70	708	7597921618464002	CMakeFiles/Control-de-Acceso-V2.dir/Core/Src/syscalls.c.obj	7963e8d09ff970b6
+3	1070	7597926020922922	build.ninja	25b400e36e49830a
+19	293	7597922527525407	CMakeFiles/Control-de-Acceso-V2.dir/Core/Src/main.c.obj	6af46df052ccc37e
